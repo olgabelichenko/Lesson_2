@@ -19,3 +19,7 @@
 * Среда
 
 # Вставка картинок #
+![это я](olga_belichenko_MThumb.jpg)
+
+# направляю в git hab #
+
